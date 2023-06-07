@@ -1,0 +1,6 @@
+C:\Users\Peli\source\repos\CommandApp\Application\bin\Debug\Application.dll
+C:\Users\Peli\source\repos\CommandApp\Application\bin\Debug\Application.pdb
+C:\Users\Peli\source\repos\CommandApp\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Peli\source\repos\CommandApp\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Peli\source\repos\CommandApp\Application\obj\Debug\Application.dll
+C:\Users\Peli\source\repos\CommandApp\Application\obj\Debug\Application.pdb

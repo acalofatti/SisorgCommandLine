@@ -1,0 +1,9 @@
+C:\Users\Peli\source\repos\CommandApp\Presentation\obj\Debug\Presentation.csproj.AssemblyReference.cache
+C:\Users\Peli\source\repos\CommandApp\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Peli\source\repos\CommandApp\Presentation\bin\Debug\Presentation.dll
+C:\Users\Peli\source\repos\CommandApp\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Peli\source\repos\CommandApp\Presentation\bin\Debug\Application.dll
+C:\Users\Peli\source\repos\CommandApp\Presentation\bin\Debug\Application.pdb
+C:\Users\Peli\source\repos\CommandApp\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Peli\source\repos\CommandApp\Presentation\obj\Debug\Presentation.dll
+C:\Users\Peli\source\repos\CommandApp\Presentation\obj\Debug\Presentation.pdb
