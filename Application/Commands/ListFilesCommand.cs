@@ -5,8 +5,8 @@ namespace Application.Commands
 { 
     public class ListFilesCommand : ICommand
     {
-        string ICommand.Description => "Muestra los archivos/carpetas que se encuentran en el directorio.";
-        string ICommand.CommandName => "ls";
+        public string Description => "Muestra los archivos/carpetas que se encuentran en el directorio.";
+        public string CommandName => "ls";
 
         public string Execute(string[] commandArguments)
         {

@@ -4,8 +4,8 @@ namespace Application.Commands
 {
     public class CreateFileCommand : ICommand
     {
-        string ICommand.Description => "Crea un archivo nuevo vacio con el siguiente nombre y extensión.";
-        string ICommand.CommandName => "tch";
+        public string Description => "Crea un archivo nuevo vacio con el siguiente nombre y extensión.";
+        public string CommandName => "tch";
         public string Execute(string[] commandArguments)
         {
             if (commandArguments.Length != 1)

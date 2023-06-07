@@ -5,8 +5,8 @@ namespace Application.Commands
 {
     public class HelpCommand : ICommand
     {
-        string ICommand.Description => "Permite ver un listado de cada comando y su descripción";
-        string ICommand.CommandName => "help";
+        public string Description => "Permite ver un listado de cada comando y su descripción";
+        public string CommandName => "help";
 
         private readonly Dictionary<string, ICommand> _commands;
         public HelpCommand(Dictionary<string, ICommand> commands)

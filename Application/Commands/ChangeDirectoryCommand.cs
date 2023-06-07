@@ -4,8 +4,8 @@ namespace Application.Commands
 {
     public class ChangeDirectoryCommand : ICommand
     {
-        string ICommand.Description => "Permite navegar entre los diferentes directorios";
-        string ICommand.CommandName => "cd";
+        public string Description => "Permite navegar entre los diferentes directorios";
+        public string CommandName => "cd";
         public string Execute(string[] commandArguments)
         {
             if (commandArguments.Length != 1)
