@@ -19,11 +19,11 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado lo siguiente:
 ## Uso
 Una vez que hayas compilado la solución, puedes ejecutar la aplicación desde la línea de comandos. A continuación se muestran los comandos disponibles:
 
-tch [nombre de archivo]: Crea un archivo nuevo vacío con el nombre y extensión especificados.
-mv [archivo1] [archivo2]: Cambia el nombre de un archivo.
-mv [path1] [path2]: Mueve un archivo de un directorio a otro.
-ls: Muestra los archivos y carpetas en el directorio actual.
-ls -R: Muestra el contenido de todos los subdirectorios de forma recursiva (opcional).
-cd [path]: Permite cambiar el directorio actual.
-help [comando]: Muestra una descripción de cada comando y su uso.
+- `tch [nombre de archivo]`: Crea un archivo nuevo vacío con el siguiente nombre y extensión.
+- `mv [archivo1] [archivo2]`: Cambia de nombre un archivo.
+- `mv [path1] [path2]`: Mueve un archivo de directorio.
+- `ls`: Muestra los archivos/carpetas que se encuentran en el directorio.
+- `ls -R`: Muestra el contenido de todos los subdirectorios de forma recursiva (opcional).
+- `cd [path]`: Permite navegar entre los diferentes directorios.
+- `help [comando]`: Permite ver un listado de cada comando y su descripción.
 
